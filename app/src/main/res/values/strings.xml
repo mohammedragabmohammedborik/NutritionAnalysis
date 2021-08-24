@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nutrition Analysis</string>
+      <string name="title_domainlayer">DomainLayer</string>
+</resources>
